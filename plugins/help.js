@@ -25,10 +25,10 @@ module.exports = {
       "⚙️ 𝐒ʏꜱᴛᴇᴍ": ["Administration", "Admin", "Owner", "Bot Management", "System"],
       "🧠 𝐀ɪ & 𝐂ʜᴀᴛ": ["AI", "AI Chat"],
       "🎬 𝐌ᴇᴅɪᴀ": ["Media", "Video", "Image"],
-      "🧰 Utilities": ["Utility", "Utilities", "System"],
-      "👥 Group": ["Group Management", "group"],
-      "🎮 Fun": ["Fun", "Games", "greetings"],
-      "🛰️ Tools": ["Tools", "Information"]
+      "🧰 𝐔ᴛɪʟɪᴛɪᴇꜱ": ["Utility", "Utilities", "System"],
+      "👥 𝐆ʀᴏᴜᴘ": ["Group Management", "group"],
+      "🎮 𝐅ᴜɴ": ["Fun", "Games", "greetings"],
+      "🛰️ 𝐓ᴏᴏʟꜱ": ["Tools", "Information"]
     };
 
     const categories = {};
