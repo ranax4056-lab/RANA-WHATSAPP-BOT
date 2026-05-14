@@ -95,7 +95,7 @@ module.exports = {
 │ 👑 𝐎ᴡɴᴇʀ: ${global.config.botOwner || "Mohammad Nayan"}
 │ 🌍 𝐆ʟᴏʙᴀʟ 𝐏ʀᴇғɪ𝚇: \`${globalPrefix}\`
 │ 👥 𝐆ʀᴏᴜᴘ 𝐏ʀᴇғɪ𝚇: \`${prefix || "Not set (using global)"}\`
-│ 🧩 Version: ${pkg.version}
+│ 🧩 𝐕ᴇʀꜱɪᴏɴ: ${pkg.version}
 │ 🕒 Time: ${currentTime}
 │ 📅 Date: ${currentDate}
 │ 🌐 Timezone: ${timezone}
