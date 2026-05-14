@@ -15,7 +15,7 @@ module.exports = {
       }
 
       const username = `@${member.split('@')[0]}`;
-      const welcomeMessage = `🎉✨ *Hey ${username}, *⎯͢✧𝐖ᴇʟᴄᴏᴍᴇ 𝐓ᴏ* ${groupName}!* ✨🎉\n\n` +
+      const welcomeMessage = `🎉✨ *⎯͢✧🫣 𝐇ᴇʏ* ${username}, *⎯͢✧𝐖ᴇʟᴄᴏᴍᴇ 𝐓ᴏ* ${groupName}!* ✨🎉\n\n` +
         `🚀 You just landed in an awesome group!\n` +
         `👥 *Total Members:* ${totalMembers}\n` +
         `📢 *Rules:* Be respectful, stay active & enjoy!`;
