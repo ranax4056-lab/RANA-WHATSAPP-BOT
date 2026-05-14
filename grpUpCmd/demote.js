@@ -5,7 +5,7 @@ module.exports = {
     console.log(event);
     for (const member of demotedMembers) {
       await api.sendMessage(event.id, {
-        text: `😢 @${member.split('@')[0]} has been demoted. Better luck next time!`,
+        text: `😢 @${member.split('@')[0]} ⎯͢✧ 𝐡ᴀꜱ ʙᴇᴇɴ ᴅᴇᴍᴏᴛᴇᴅ. 𝐁ᴇᴛᴛᴇʀ ʟᴜᴄᴋ ɴᴇxᴛ ᴛɪᴍᴇ!`,
         mentions: [member]
       });
     }
