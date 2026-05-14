@@ -99,7 +99,7 @@ module.exports = {
 │ 🕒 𝐓ɪᴍᴇ: ${currentTime}
 │ 📅 𝐃ᴀᴛᴇ: ${currentDate}
 │ 🌐 𝐓ɪᴍᴇᴢᴏɴᴇ: ${timezone}
-│ 📜 Total Commands: ${commands.length}
+│ 📜 𝐓ᴏᴛᴀʟ 𝐂ᴏᴍᴍᴀɴᴅꜱ: ${commands.length}
 │──────────────────────`;
 
     for (const category in categories) {
