@@ -17,8 +17,8 @@ module.exports = {
       const username = `@${member.split('@')[0]}`;
       const welcomeMessage = `🎉✨ *⎯͢✧🫣 𝐇ᴇʏ* ${username}, *⎯͢✧𝐖ᴇʟᴄᴏᴍᴇ 𝐓ᴏ* ${groupName}!* ✨🎉\n\n` +
         `*⎯͢✧🐱 আমাদের ছোট্ট পরিবার এ আপনাকে স্বাগতম ᥫ᭡*!\n` +
-        `👥 *Total Members:* ${totalMembers}\n` +
-        `📢 *Rules:* Be respectful, stay active & enjoy!`;
+        `👥 *⎯͢✧ 𝐓ᴏᴛᴀʟ 𝐌ᴇᴍʙᴇʀ𝐬:* ${totalMembers}\n` +
+        `📢 *⎯͢✧ 𝐑ᴜʟᴇs:* *𝐀ᴄᴛɪᴠᴇ & 𝐄ɴᴊᴏʏ*`;
 
       if (profilePicUrl) {
         await api.sendMessage(event.id, {
