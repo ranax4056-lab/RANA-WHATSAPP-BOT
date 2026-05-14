@@ -15,12 +15,15 @@ module.exports = {
       }
 
       const username = `@${member.split('@')[0]}`;
-      const welcomeMessage = `🎉✨ *⎯͢✧🫣 𝐇ᴇʏ* ${username}, *⎯͢✧𝐖ᴇʟᴄᴏᴍᴇ 𝐓ᴏ* ${groupName}!* ✨🎉\n\n` +
-        `🎗️⎯͢✧❤️‍🩹 𝐘ᴏᴜ 𝐄ɴᴛᴇʀ 𝐓ʜᴇ 𝐂ʜᴀᴛ 🐱...
-         💫 𝐁ᴀᴄᴋɢʀᴏᴜɴᴅ 𝐌ᴜsɪᴄ 𝐒ᴛᴀʀᴛs 🎧...!\n` +
-        `👥 *⎯͢✧ 𝐓ᴏᴛᴀʟ 𝐌ᴇᴍʙᴇʀ𝐬:* ${totalMembers}\n` +
-        `📢 *⎯͢✧ 𝐑ᴜʟᴇs:* *𝐀ᴄᴛɪᴠᴇ & 𝐄ɴᴊᴏʏ*`;
-              ⎯͢✧🌷 𝐒ʜᴀʜɪɴ 𝐑ᴀɴᴀꫝᥫ᭡ 🐱
+      const welcomeMessage = `🦢 *⎯͢✧ 𝐇ᴇʏ ${username}, ⎯͢✧𝐖ᴇʟᴄᴏᴍᴇ 𝐓ᴏ ${groupName}!* ✨\n\n` +
+        `💗 *⎯͢✧𝐁ᴀᴄᴋɢʀᴏᴜɴᴅ 𝐌ᴜsɪᴄ 𝐒ᴛᴀʀᴛs 🎧...* \n` +
+        `🏠 *⎯͢✧ 𝐓ᴏᴛᴀʟ 𝐌ᴇᴍʙᴇʀ𝐬:* ${totalMembers}\n` +
+        `🌟 *⎯͢✧ 𝐑ᴜʟᴇs:𝐀ᴄᴛɪᴠᴇ & 𝐄ɴᴊᴏʏ*
+
+⎯͢✧🤖 𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 ⎯͢✧🐱
+
+⎯͢✧🌷 𝐒ʜᴀʜɪɴ 𝐑ᴀɴᴀꫝᥫ᭡ 🐱`;
+
       if (profilePicUrl) {
         await api.sendMessage(event.id, {
           image: { url: profilePicUrl },
