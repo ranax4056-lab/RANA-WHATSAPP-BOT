@@ -90,7 +90,7 @@ module.exports = {
     });
     // ───── MAIN HELP MENU ─────
     let responseText = `
-╭─❖  𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗠𝗘𝗡𝗨  ❖─╮
+╭┈──〔 𓆩ု᪳𝐒𝐇𝐀𝐇𝐈𝐍-ှ᪳𓆪* *〕┈──⊷
 │ 💎 𝘽𝙤𝙩: ${global.config.botName || "EMon System"}
 │ 👑 Owner: ${global.config.botOwner || "Mohammad Nayan"}
 │ 🌍 Global Prefix: \`${globalPrefix}\`
