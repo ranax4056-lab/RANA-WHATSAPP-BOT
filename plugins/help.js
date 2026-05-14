@@ -92,7 +92,7 @@ module.exports = {
     let responseText = `
 ╭┈──〔 𓆩ု᪳𝐒𝐇𝐀𝐇𝐈𝐍-ှ᪳𓆪* *〕┈──⊷
 │ 💎 𝐁ᴏᴛ: ${global.config.botName || "EMon System"}
-│ 👑 Owner: ${global.config.botOwner || "Mohammad Nayan"}
+│ 👑 𝐎ᴡɴᴇʀ: ${global.config.botOwner || "Mohammad Nayan"}
 │ 🌍 Global Prefix: \`${globalPrefix}\`
 │ 👥 Group Prefix: \`${prefix || "Not set (using global)"}\`
 │ 🧩 Version: ${pkg.version}
