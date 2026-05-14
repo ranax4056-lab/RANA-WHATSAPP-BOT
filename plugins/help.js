@@ -24,7 +24,7 @@ module.exports = {
     const mergedCategories = {
       "⚙️ 𝐒ʏꜱᴛᴇᴍ": ["Administration", "Admin", "Owner", "Bot Management", "System"],
       "🧠 𝐀ɪ & 𝐂ʜᴀᴛ": ["AI", "AI Chat"],
-      "🎬 Media": ["Media", "Video", "Image"],
+      "🎬 𝐌ᴇᴅɪᴀ": ["Media", "Video", "Image"],
       "🧰 Utilities": ["Utility", "Utilities", "System"],
       "👥 Group": ["Group Management", "group"],
       "🎮 Fun": ["Fun", "Games", "greetings"],
