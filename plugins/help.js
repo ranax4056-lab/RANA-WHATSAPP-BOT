@@ -22,7 +22,7 @@ module.exports = {
     const globalPrefix = global.config.PREFIX;
 
     const mergedCategories = {
-      "⚙️ System": ["Administration", "Admin", "Owner", "Bot Management", "System"],
+      "⚙️ 𝐒ʏꜱᴛᴇᴍ": ["Administration", "Admin", "Owner", "Bot Management", "System"],
       "🧠 AI & Chat": ["AI", "AI Chat"],
       "🎬 Media": ["Media", "Video", "Image"],
       "🧰 Utilities": ["Utility", "Utilities", "System"],
