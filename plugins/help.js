@@ -97,7 +97,7 @@ module.exports = {
 │ 👥 𝐆ʀᴏᴜᴘ 𝐏ʀᴇғɪ𝚇: \`${prefix || "Not set (using global)"}\`
 │ 🧩 𝐕ᴇʀꜱɪᴏɴ: ${pkg.version}
 │ 🕒 𝐓ɪᴍᴇ: ${currentTime}
-│ 📅 Date: ${currentDate}
+│ 📅 𝐃ᴀᴛᴇ: ${currentDate}
 │ 🌐 Timezone: ${timezone}
 │ 📜 Total Commands: ${commands.length}
 │──────────────────────`;
