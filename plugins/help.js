@@ -100,7 +100,7 @@ module.exports = {
 │ 📅 𝐃ᴀᴛᴇ: ${currentDate}
 │ 🌐 𝐓ɪᴍᴇᴢᴏɴᴇ: ${timezone}
 │ 📜 𝐓ᴏᴛᴀʟ 𝐂ᴏᴍᴍᴀɴᴅꜱ: ${commands.length}
-│──────────────────────`;
+│─────────────────────⊷`;
 
     for (const category in categories) {
       const cmds = categories[category]
