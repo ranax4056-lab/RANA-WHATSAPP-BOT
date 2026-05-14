@@ -98,7 +98,7 @@ module.exports = {
 │ 🧩 𝐕ᴇʀꜱɪᴏɴ: ${pkg.version}
 │ 🕒 𝐓ɪᴍᴇ: ${currentTime}
 │ 📅 𝐃ᴀᴛᴇ: ${currentDate}
-│ 🌐 Timezone: ${timezone}
+│ 🌐 𝐓ɪᴍᴇᴢᴏɴᴇ: ${timezone}
 │ 📜 Total Commands: ${commands.length}
 │──────────────────────`;
 
