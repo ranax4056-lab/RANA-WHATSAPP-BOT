@@ -93,7 +93,7 @@ module.exports = {
 ╭┈──〔 𓆩ု᪳𝐒𝐇𝐀𝐇𝐈𝐍-ှ᪳𓆪* *〕┈──⊷
 │ 💎 𝐁ᴏᴛ: ${global.config.botName || "EMon System"}
 │ 👑 𝐎ᴡɴᴇʀ: ${global.config.botOwner || "Mohammad Nayan"}
-│ 🌍 Global Prefix: \`${globalPrefix}\`
+│ 🌍 𝐆ʟᴏʙᴀʟ 𝐏ʀᴇғɪ𝚇: \`${globalPrefix}\`
 │ 👥 Group Prefix: \`${prefix || "Not set (using global)"}\`
 │ 🧩 Version: ${pkg.version}
 │ 🕒 Time: ${currentTime}
