@@ -91,8 +91,8 @@ module.exports = {
     // ───── MAIN HELP MENU ─────
     let responseText = `
 ╭┈──〔 𓆩ု᪳𝐒𝐇𝐀𝐇𝐈𝐍-ှ᪳𓆪* *〕┈──⊷
-│ 💎 𝐁ᴏᴛ: ${global.config.botName || "EMon System"}
-│ 👑 𝐎ᴡɴᴇʀ: ${global.config.botOwner || "Mohammad Nayan"}
+│ 💎 𝐁ᴏᴛ: ${global.config.botName || "𝐒ʜᴀʜɪɴ 𝐁ᴏᴛ "}
+│ 👑 𝐎ᴡɴᴇʀ: ${global.config.botOwner || "⎯͢✧🌷𝐒ʜᴀʜɪɴ 𝐑ᴀɴᴀꫝᥫ᭡ 🐱"}
 │ 🌍 𝐆ʟᴏʙᴀʟ 𝐏ʀᴇғɪ𝚇: \`${globalPrefix}\`
 │ 👥 𝐆ʀᴏᴜᴘ 𝐏ʀᴇғɪ𝚇: \`${prefix || "Not set (using global)"}\`
 │ 🧩 𝐕ᴇʀꜱɪᴏɴ: ${pkg.version}
