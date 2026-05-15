@@ -1,4 +1,5 @@
 const os = require("os");
+
 module.exports = {
   config: {
     name: "uptime",
@@ -7,10 +8,11 @@ module.exports = {
     prefix: true,
     description: "Check the bot's uptime.",
     categories: "Bot Management",
-    credit: "Developed by Mohammad Nayan",
+    credit: "Shahin Rana",
   },
 
   start: async ({ api, event }) => {
+
     const { threadId } = event;
 
     const uptimeMs = Date.now() - global.botStartTime;
@@ -32,28 +34,36 @@ module.exports = {
     const cpuModel = os.cpus()[0].model;
     const cpuLoad = os.loadavg()[0].toFixed(2);
 
-  
     const msg = `
-╭━━━━━━━━━━━━━━━━━━━╮
-│ 🚀 *BOT UPTIME STATUS*  
-╰━━━━━━━━━━━━━━━━━━━╯
+╔═══❖•ೋ°°ೋ•❖═══╗
+⚡ *𝐁ᴏᴛ 𝐔ᴘᴛɪᴍᴇ 𝐒ᴛᴀᴛᴜs*
+╚═══❖•ೋ°°ೋ•❖═══╝
 
-✨ *Online Since:*  
-🔸 ${days} day(s)  
-🔸 ${hours} hour(s)  
-🔸 ${minutes} minute(s)  
-🔸 ${seconds} second(s)  
+⏰ ⎯͢✧ 𝐎ɴʟɪɴᴇ 𝐒ɪɴᴄᴇ ꫝᥫ᭡ 🐱
 
-⏱ *Total:* *${uptime}*
+🌸 *𝐃ᴀʏs:* ${days}
+🌷 *𝐇ᴏᴜʀs:* ${hours}
+💫 *𝐌ɪɴᴜᴛᴇs:* ${minutes}
+🎧 *𝐒ᴇᴄᴏɴᴅs:* ${seconds}
 
-━━━━━━━━━━━━━━━━━━━━━━
-🤖 *Bot Name:* ${global.config.botName || "Nayan Bot"}
-🖥 *Engine:* ${cpuModel.split("CPU")[0].trim()}
-⚙️ *CPU Load:* ${cpuLoad}
-📌 *Status:* Running Smoothly  
-━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━
+⏱️ *𝐓ᴏᴛᴀʟ 𝐔ᴘᴛɪᴍᴇ:* ${uptime}
+
+🤖 *𝐁ᴏᴛ 𝐍ᴀᴍᴇ:* ${global.config.botName || "X-Shahin"}
+🖥️ *𝐄ɴɢɪɴᴇ:* ${cpuModel.split("CPU")[0].trim()}
+⚙️ *𝐂ᴘᴜ 𝐋ᴏᴀᴅ:* ${cpuLoad}
+
+✅ *𝐒ᴛᴀᴛᴜs:* 𝐎ɴʟɪɴᴇ 𝐀ɴᴅ 𝐑ᴇᴀᴅʏ!
+
+━━━━━━━━━━━━━━━━━━
+*⎯͢✧🫣 𝐒ʜᴀʜɪɴ 𝐑ᴀɴᴀꫝᥫ᭡ 🐱*
 `;
 
-    await api.sendMessage(threadId, { text: msg }, { quoted: event.message});
+    await api.sendMessage(
+      threadId,
+      { text: msg },
+      { quoted: event.message }
+    );
+
   }
 };
