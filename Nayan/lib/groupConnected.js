@@ -20,7 +20,7 @@ ${global.config.PREFIX}alldown (link)
 
 ⎯͢✧🌷 𝐀ɴᴅ 𝐅ᴏʀ 𝐀ɴʏ 𝐂ᴏᴍᴘʟᴀɪɴᴛs 𝐎ʀ 𝐂ᴏɴᴛᴀᴄᴛ 𝐁ᴏᴛ 𝐎ᴘᴇʀᴀᴛᴏʀᥫ᭡ 
 
-DEVELOPER: ${global.config.botOwner}
+⎯͢✧🌷 𝐃ᴇᴠᴇʟᴏᴘᴇʀ: ${global.config.botOwner}
 
 🔵WHATSAPP NUMBER: wa.me/+${global.config.admin[0] || "8801615298449"}`;
 };
