@@ -1,7 +1,7 @@
 module.exports = function () {
   return `${global.config.botName} CONNECTED«
 
-Assalamualaykum☘️
+⎯͢✧🌷 𝐀ꜱꜱᴀʟᴀᴍᴜᴀʟᴀɪᴋᴜᴍᥫ᭡🍁
 <------------------------------>
 BOT CONNECTED SUCCESSFUL !!!
 
