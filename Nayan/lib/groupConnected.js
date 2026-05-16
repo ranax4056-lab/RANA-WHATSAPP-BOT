@@ -5,7 +5,7 @@ module.exports = function () {
 <------------------------------>
 ⎯͢✧🌷 𝐁ᴏᴛ 𝐂ᴏɴɴᴇᴄᴛᴇᴅ 𝐒ᴜᴄᴄᴇssғᴜʟ ✔️ !!!
 
-APPROVAL ALLOW IN THIS GROUP!!!
+⎯͢✧🌷 𝐀ᴘᴘʀᴏᴠᴀʟ 𝐀ʟʟᴏᴡ 𝐈ɴ 𝐓ʜɪs 𝐆ʀᴏᴜᴘᥫ᭡ 🐱!!!
 <------------------------------>
 
 TO VIEW ANY COMMAND Use👉 ${global.config.PREFIX}help
