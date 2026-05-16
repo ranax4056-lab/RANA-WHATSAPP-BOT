@@ -1,5 +1,5 @@
 module.exports = function () {
-  return `${global.config.botName} CONNECTED«
+  return `${global.config.botName} 𝐂ᴏɴɴᴇᴄᴛᴇᴅ«
 
 ⎯͢✧🌷 𝐀ꜱꜱᴀʟᴀᴍᴜᴀʟᴀɪᴋᴜᴍᥫ᭡🍁
 <------------------------------>
