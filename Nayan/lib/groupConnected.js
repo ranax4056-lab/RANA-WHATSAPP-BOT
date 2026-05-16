@@ -8,7 +8,7 @@ module.exports = function () {
 ⎯͢✧🌷 𝐀ᴘᴘʀᴏᴠᴀʟ 𝐀ʟʟᴏᴡ 𝐈ɴ 𝐓ʜɪs 𝐆ʀᴏᴜᴘᥫ᭡ 🐱!!!
 <------------------------------>
 
-TO VIEW ANY COMMAND Use👉 ${global.config.PREFIX}help
+⎯͢✧🌷 𝐓ᴏ 𝐕ɪᴇᴡ 𝐀ɴʏ 𝐂ᴏᴍᴍᴀɴᴅ 𝐔sᴇ👉 ${global.config.PREFIX}help
 See command👉 ${global.config.PREFIX}menu
 
 EXAMPLE:👇
