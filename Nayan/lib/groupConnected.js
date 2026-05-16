@@ -3,7 +3,7 @@ module.exports = function () {
 
 ⎯͢✧🌷 𝐀ꜱꜱᴀʟᴀᴍᴜᴀʟᴀɪᴋᴜᴍᥫ᭡🍁
 <------------------------------>
-BOT CONNECTED SUCCESSFUL !!!
+⎯͢✧🌷 𝐁ᴏᴛ 𝐂ᴏɴɴᴇᴄᴛᴇᴅ 𝐒ᴜᴄᴄᴇssғᴜʟ ✔️ !!!
 
 APPROVAL ALLOW IN THIS GROUP!!!
 <------------------------------>
