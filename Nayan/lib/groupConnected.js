@@ -11,7 +11,7 @@ module.exports = function () {
 ⎯͢✧🌷 𝐓ᴏ 𝐕ɪᴇᴡ 𝐀ɴʏ 𝐂ᴏᴍᴍᴀɴᴅ 𝐔sᴇ👉 ${global.config.PREFIX}help
 ⎯͢✧🌷 𝐒ᴇᴇ 𝐂ᴏᴍᴍᴀɴᴅ👉 ${global.config.PREFIX}menu
 
-EXAMPLE:👇
+⎯͢✧🌷 𝐄xᴀᴍᴘʟᴇ:👇
 ${global.config.PREFIX}admin (information)
 ${global.config.PREFIX}info (admin info)
 ${global.config.PREFIX}alldown (link)
