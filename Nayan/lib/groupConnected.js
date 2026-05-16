@@ -22,5 +22,5 @@ ${global.config.PREFIX}alldown (link)
 
 ⎯͢✧🌷 𝐃ᴇᴠᴇʟᴏᴘᴇʀ: ${global.config.botOwner}
 
-🔵WHATSAPP NUMBER: wa.me/+${global.config.admin[0] || "8801615298449"}`;
+⎯͢✧🌷 𝐖ʜᴀᴛsᴀᴘᴘ 𝐍ᴜᴍʙᴇʀ: wa.me/+${global.config.admin[0] || "8801615298449"}`;
 };
