@@ -9,7 +9,7 @@ module.exports = function () {
 <------------------------------>
 
 ⎯͢✧🌷 𝐓ᴏ 𝐕ɪᴇᴡ 𝐀ɴʏ 𝐂ᴏᴍᴍᴀɴᴅ 𝐔sᴇ👉 ${global.config.PREFIX}help
-See command👉 ${global.config.PREFIX}menu
+⎯͢✧🌷 𝐒ᴇᴇ 𝐂ᴏᴍᴍᴀɴᴅ👉 ${global.config.PREFIX}menu
 
 EXAMPLE:👇
 ${global.config.PREFIX}admin (information)
@@ -18,7 +18,7 @@ ${global.config.PREFIX}alldown (link)
 
 <------------------------------>
 
-AND FOR ANY COMPLAINTS OR CONTACT BOT OPERATOR 
+⎯͢✧🌷 𝐀ɴᴅ 𝐅ᴏʀ 𝐀ɴʏ 𝐂ᴏᴍᴘʟᴀɪɴᴛs 𝐎ʀ 𝐂ᴏɴᴛᴀᴄᴛ 𝐁ᴏᴛ 𝐎ᴘᴇʀᴀᴛᴏʀᥫ᭡ 
 
 DEVELOPER: ${global.config.botOwner}
 
